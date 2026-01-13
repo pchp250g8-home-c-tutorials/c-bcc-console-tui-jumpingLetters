@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.01.13 20:28:20.316,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.13 20:28:20.497,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.01.13 20:30:34.932,D:\Projects\Programming\C\BDS\Console\TUI\JumpingLetters\JumpingLettersPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.13 20:30:34.943,D:\Projects\Programming\C\BDS\Console\TUI\JumpingLetters\File1.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.01.13 20:30:34.953,D:\Projects\Programming\C\BDS\Console\TUI\JumpingLetters\JumpingLetters.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.01.13 20:30:51.902,D:\Projects\Programming\C\BDS\Console\TUI\JumpingLetters\JumpingLetters.c=D:\Projects\Programming\C\BDS\Console\TUI\JumpingLetters\File1.c</Transaction>
+    <Transaction>2026.01.13 20:30:54.298,D:\Projects\Programming\C\BDS\Console\TUI\JumpingLetters\JumpingLetters.cbproj=D:\Projects\Programming\C\BDS\Console\TUI\JumpingLetters\JumpingLetters.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
