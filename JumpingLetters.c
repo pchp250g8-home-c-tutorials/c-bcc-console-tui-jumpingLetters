@@ -25,5 +25,7 @@ int _tmain(int argc, _TCHAR* argv[])
             thrd_sleep(&sDuration, NULL);
         }
     }
+    gotoxy(10, 10);
+    cprintf("%s", szLine);
     getch();
 }
